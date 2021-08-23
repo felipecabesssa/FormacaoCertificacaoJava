@@ -1,17 +1,18 @@
 public class Teste {
-    public void m1(){
-        int x = 10;
+    String nome = "felipe";
+    String nomeCompleto = nome + " henrique";
 
-        if(x >= 10) {
-            int y = 50;
-            System.out.println(y);
-        }
-
-        System.out.println(x);
+    public Teste(){
+        System.out.println(nome);
+    }
+    public void m2(){
+        System.out.println(nomeCompleto);
     }
 
     public static void main(String[] args) {
         Teste t = new Teste();
-        t.m1();
+        t.m2();
+        t.nome = "joão";
+        System.out.println(t.nome);
     }
 }
