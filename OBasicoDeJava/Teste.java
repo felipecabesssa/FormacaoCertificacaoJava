@@ -16,3 +16,5 @@ public class Teste {
         System.out.println(t.nome);
     }
 }
+
+//Alterando arquivo para testar novo commit e push.
