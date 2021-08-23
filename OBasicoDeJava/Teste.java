@@ -17,4 +17,3 @@ public class Teste {
     }
 }
 
-//Alterando arquivo para testar novo commit e push.
