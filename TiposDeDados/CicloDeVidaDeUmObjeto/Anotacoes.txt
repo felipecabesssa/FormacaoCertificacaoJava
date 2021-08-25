@@ -1,0 +1,8 @@
+
+    
+    Para criar um objeto eu tenho que chamar um construtor,
+    senão ele não é criado de fato.
+
+    new = nomeDoTipo();
+    
+
