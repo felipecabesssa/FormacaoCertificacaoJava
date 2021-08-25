@@ -1,0 +1,7 @@
+- Quando tenho espaço entre os elementos eu posso quebrar a linha.
+
+- No método main, parametros são obrigatórios
+retorno eu só uso se quiser.
+
+- Número variável de argumentos. 
+ex na classe Calculadora.
