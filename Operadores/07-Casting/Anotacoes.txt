@@ -1,0 +1,4 @@
+problemas com o casting, CUIDADO !
+
+se tentar fazer um casting de um numero de capacidade maior para um de capacidade menor, corre o risco dele "estourar" e gerar ate um número negativo.
+
